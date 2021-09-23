@@ -10,8 +10,8 @@ A daily journal to log events to occur throughout a standard workday using HTML,
 https://sdb14.github.io/WorkDayScheduler/
 
 ## Screenshots
-![Calendar](./Capture1.png)
-![Local Storage](C:\Users\thoma\OneDrive\Desktop\CWRUBootCamp\Challenge5\Capture2.PNG)
+![Calendar](https://github.com/SDB14/WorkDayScheduler/blob/main/Capture1.PNG)
+![Local Storage](https://github.com/SDB14/WorkDayScheduler/blob/main/Capture2.PNG)
 
 
 
