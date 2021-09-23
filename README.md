@@ -7,7 +7,7 @@ Create a simple calendar application that allows a user to save events for each 
 A daily journal to log events to occur throughout a standard workday using HTML, CSS and powered by jQuery allowing me to manage my time effectively
 
 ## Website
-
+https://sdb14.github.io/WorkDayScheduler/
 
 ## Screenshots
 
