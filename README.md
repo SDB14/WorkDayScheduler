@@ -16,9 +16,9 @@ A daily journal to log events to occur throughout a standard workday using HTML,
 
 
 ## Functionality
-•	Upon opening, displays the current day, date, and time
-•	Provides hourly time blocks beginning at 9AM through 5PM
-•	Events or tasks can be typed into the hourly time blocks and saved for review throughout the day
-•	These events remain visible upon page reloading and if needed can be edited or updated with new information
-•	Time blocks are color coordinated to show past, present and future hours
+* Upon opening, displays the current day, date, and time
+* Provides hourly time blocks beginning at 9AM through 5PM
+* Events or tasks can be typed into the hourly time blocks and saved for review throughout the day
+* These events remain visible upon page reloading and if needed can be edited or updated with new information
+* Time blocks are color coordinated to show past, present and future hours
 
