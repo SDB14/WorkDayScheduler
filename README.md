@@ -1,29 +1,15 @@
-Your Task
-Create a simple calendar application that allows a user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+Project: Workday Scheduler
+Third-Party APIs Challenge
+Create a simple calendar application that allows a user to save events for each hour of the day. 
+General Description
+A daily journal to log events to occur throughout a standard workday using HTML, CSS and powered by jQuery allowing me to manage my time effectively
+Website
+Screenshots
 
-The starter code uses the Moment.js (Links to an external site.) library to work with date and time, but feel free to use a different JavaScript solution to handle this functionality since Moment.js is considered a "legacy" project. Learn more about some alternative solutions in the Moment.js project status page. (Links to an external site.)
+Functionality
+•	Upon opening, displays the current day, date, and time
+•	Provides hourly time blocks beginning at 9AM through 5PM
+•	Events or tasks can be typed into the hourly time blocks and saved for review throughout the day
+•	These events remain visible upon page reloading and if needed can be edited or updated with new information
+•	Time blocks are color coordinated to show past, present and future hours
 
-Before you start, clone the starter code (Links to an external site.).
-
-User Story
-AS AN employee with a busy schedule
-I WANT to add important events to a daily planner
-SO THAT I can manage my time effectively
-Acceptance Criteria
-GIVEN I am using a daily planner to create a schedule
-WHEN I open the planner
-THEN the current day is displayed at the top of the calendar
-WHEN I scroll down
-THEN I am presented with time blocks for standard business hours
-WHEN I view the time blocks for that day
-THEN each time block is color-coded to indicate whether it is in the past, present, or future
-WHEN I click into a time block
-THEN I can enter an event
-WHEN I click the save button for that time block
-THEN the text for that event is saved in local storage
-WHEN I refresh the page
-THEN the saved events persist
-Mock-Up
-The following animation demonstrates the application functionality:
-
-day planner demo
