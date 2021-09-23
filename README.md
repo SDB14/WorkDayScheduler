@@ -1,12 +1,21 @@
-Project: Workday Scheduler
+# Project: Workday Scheduler
+
 Third-Party APIs Challenge
 Create a simple calendar application that allows a user to save events for each hour of the day. 
-General Description
-A daily journal to log events to occur throughout a standard workday using HTML, CSS and powered by jQuery allowing me to manage my time effectively
-Website
-Screenshots
 
-Functionality
+## General Description
+A daily journal to log events to occur throughout a standard workday using HTML, CSS and powered by jQuery allowing me to manage my time effectively
+
+## Website
+
+
+## Screenshots
+
+
+
+
+
+## Functionality
 •	Upon opening, displays the current day, date, and time
 •	Provides hourly time blocks beginning at 9AM through 5PM
 •	Events or tasks can be typed into the hourly time blocks and saved for review throughout the day
