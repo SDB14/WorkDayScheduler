@@ -11,7 +11,7 @@ https://sdb14.github.io/WorkDayScheduler/
 
 ## Screenshots
 ![Calendar](./Capture1.png)
-![Local Storage](./Capture2.png)
+![Local Storage](C:\Users\thoma\OneDrive\Desktop\CWRUBootCamp\Challenge5\Capture2.PNG)
 
 
 
