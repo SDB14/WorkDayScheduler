@@ -11,6 +11,8 @@ https://sdb14.github.io/WorkDayScheduler/
 
 ## Screenshots
 ![Calendar](https://github.com/SDB14/WorkDayScheduler/blob/main/Capture1.PNG)
+
+
 ![Local Storage](https://github.com/SDB14/WorkDayScheduler/blob/main/Capture2.PNG)
 
 
